@@ -68,6 +68,9 @@ Signals/Behaviors/FRP:
 
 - [purescript-aff](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript.
 - [purescript-affjax](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff.
+- [purescript-queue](https://github.com/athanclark/purescript-queue) - An asynchronous queue implementation for PureScript.
+- [purescript-signal](https://github.com/bodil/purescript-signal) - An Elm-like implementation of signals for PureScript.
+- [purescript-zeta](https://github.com/athanclark/purescript-zeta) - An alternative implementation of signals.
 
 ## Effect Management
 
@@ -79,6 +82,19 @@ Signals/Behaviors/FRP:
 - [purescript-quickcheck](https://github.com/purescript/purescript-quickcheck) - An implementation of QuickCheck in PureScript.
 - [purescript-quickcheck-laws](https://github.com/garyb/purescript-quickcheck-laws) - Law tests for core classes.
 - [purescript-benchotron](https://github.com/hdgarrood/purescript-benchotron) - Straightforward benchmarking for PureScript/JavaScript.
+
+## Json
+
+- [purescript-argonaut](https://github.com/purescript-contrib/purescript-argonaut) - Typeclass for Json-serializable data types.
+- [purescript-simple-json](https://github.com/justinwoo/purescript-simple-json) - Serializable Json types through Generics.
+
+## Binary
+
+- [purescript-arraybuffer](https://github.com/jacereda/purescript-arraybuffer) - Bindings to the ArrayBuffer API.
+- [purescript-arraybuffer-class](https://github.com/athanclark/purescript-arraybuffer-class) - Typeclass for ArrayBuffer-serializable data types.
+- [purescript-base64](https://github.com/athanclark/purescript-base64) - Base64 encoding and decoding.
+- [purescript-z85](https://github.com/athanclark/purescript-z85) - Z85 encoding and decoding.
+- [purescript-text-encoding](https://github.com/AlexaDeWit/purescript-text-encoding) - Bindings to TextEncoder and TextDecoder.
 
 ## Learning Resources
 
